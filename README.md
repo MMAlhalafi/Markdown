@@ -6,4 +6,4 @@
 ###### Markdown
 
 
-	[URL for Markdown CheatSheat](/https://www.markdownguide.org/cheat-sheet/)
+	URL for Markdown CheatSheat <https://www.markdownguide.org/cheat-sheet/>
